@@ -6,4 +6,17 @@
 
     <bean id="dog" class="ua.com.codespace.Dog"/>
 
+    <!--<bean id="a" class="ua.com.codespace.A">
+        <constructor-arg name="b" ref="b"/>
+        <constructor-arg name="value" value="10"/>
+        &lt;!&ndash;<property name="b" ref="b"/>
+        <property name="value" value="1"/>&ndash;&gt;
+    </bean>
+
+    <bean id="b" class="ua.com.codespace.B">
+        <constructor-arg name="a" ref="a"/>
+        <constructor-arg name="val" value="2"/>
+        &lt;!&ndash;<property name="a" ref="a"/>
+        <property name="val" value="3"/>&ndash;&gt;
+    </bean>-->
 </beans>
