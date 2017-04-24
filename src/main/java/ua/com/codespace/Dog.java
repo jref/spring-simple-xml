@@ -9,7 +9,7 @@ public class Dog {
         System.out.println("Constructor");
     }
 
-    public void init() {
+    public void postCostruct() {
         System.out.println("init method");
     }
 
